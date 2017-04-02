@@ -1,0 +1,4 @@
+StudentID,StudentName,FacilityName,StaffFirstName,TotalAbsences,SchoolMonthName
+3400,"April Stewart","Contoso Elementary",Ray,1,"School December, 2010"
+3400,"April Stewart","Contoso Elementary",Ray,6,"School March, 2010"
+3400,"April Stewart","Contoso Elementary",Ray,2,"School September, 2010"
